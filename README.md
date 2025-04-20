@@ -19,3 +19,12 @@ Bu Windows Forms tabanlı uygulama, N Katmanlı Mimari kullanılarak geliştiril
 - ADO.NET
 - Microsoft SQL Server
 - N Katmanlı Mimari Yapısı
+
+## Uygulama Gorselleri
+
+![Ekran görüntüsü 2025-04-20 190913](https://github.com/user-attachments/assets/94b510db-5794-427b-9d21-608609b2c447)
+![Ekran görüntüsü 2025-04-20 190952](https://github.com/user-attachments/assets/48f455b9-6026-47e3-a3d0-ffbd20143d64)
+![Ekran görüntüsü 2025-04-20 191012](https://github.com/user-attachments/assets/b802414d-0f09-4a0d-8e1f-09bdebbb47ad)
+![Ekran görüntüsü 2025-04-20 191024](https://github.com/user-attachments/assets/ba2b6bfc-a3bc-4e28-b224-b2b7f48a96cd)
+
+
